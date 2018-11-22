@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "project": {
+      "id": "10001"
+    },
+    "summary": "Ordermarkierung Unit Tests: it worked",
+    "issuetype": {
+      "id": "10008"
+    }
+  }
+}
