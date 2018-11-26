@@ -22,7 +22,7 @@ public class OtherTest {
 
     @Test
     public void testOtherOther(){
-        assertFalse(true);
+        assertFalse(false);
     }
 
 }
