@@ -5,6 +5,6 @@ import org.junit.jupiter.api.Test;
 public class OtherTest {
 
     @Test
-    public void testOther(){
+    public void testOther2(){
     }
 }
