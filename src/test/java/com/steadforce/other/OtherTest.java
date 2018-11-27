@@ -7,4 +7,9 @@ public class OtherTest {
     @Test
     public void testOther2(){
     }
+
+    @Test
+    public void testOtherNew(){
+
+    }
 }
