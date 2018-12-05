@@ -6,5 +6,6 @@ public class OtherTest {
 
     @Test
     public void testOther(){
+        System.out.println("test");
     }
 }

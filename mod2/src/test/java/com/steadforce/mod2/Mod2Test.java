@@ -6,7 +6,7 @@ public class Mod2Test {
 
     @Test
     public void testMod2() {
-
+        System.out.println();
     }
 
 }
