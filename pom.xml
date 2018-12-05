@@ -6,7 +6,12 @@
 
     <groupId>com.steadforce</groupId>
     <artifactId>playground</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>mod1</module>
+        <module>mod2</module>
+    </modules>
 
     <reporting>
         <plugins>
